@@ -1,0 +1,16 @@
+body{
+  background-image: url("./assets/bg.png");
+}
+h1{
+  color: blueviolet;
+  font-size: 60px;
+  margin-left: 400px;
+}
+.img{
+  margin-left: 200px;
+  height: 200px;
+  width:200px;
+}
+.play{
+  margin-left: 900px;
+}
